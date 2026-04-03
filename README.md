@@ -24,7 +24,7 @@ Click here 👉🏽 -- [damistacks.netlify.app](https://damistacks.netlify.app)
 
 #### `🏗️ Libraries & Frameworks`
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
 #### `🛠️ Tools`
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudio)
