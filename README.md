@@ -11,6 +11,7 @@ Beyond coding, I create tech-focused content on my social media platforms and bl
 
 #### `🌐 Portfolio Website`
 Click here 👉🏽 -- [damistacks.netlify.app](https://damistacks.netlify.app)
+<a href="https://damistacks.netlify.app" target="_blank">damistacks.netlify.app</a>
 
 #### `📩 Contact Me`
   Click here 👉🏽 -- <a href="mailto: oluwasegun.d.idowu@gmail.com"> 
