@@ -10,7 +10,7 @@ Beyond coding, I create tech-focused content on my social media platforms and bl
 &nbsp;
 
 #### `🌐 Portfolio Website`
-Click here 👉🏽 -- [logicaldami.netlify.app](https://logicaldami.netlify.app)
+Click here 👉🏽 -- [damistacks.netlify.app](https://damistacks.netlify.app)
 
 #### `📩 Contact Me`
   Click here 👉🏽 -- <a href="mailto: oluwasegun.d.idowu@gmail.com"> 
