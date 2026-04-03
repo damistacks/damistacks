@@ -1,10 +1,10 @@
 ### `Software Engineer`
-👋 Hello, I’m Oluwasegun—most people call me Dami.
-<br> 
+Hello, I’m Oluwasegun—most people call me Dami.
+<br> <br>
 I’m a value-driven Software Engineer based in Lagos, passionate about continuous learning and building meaningful digital solutions. I specialize in transforming ideas into functional, user-focused web applications—combining strategy, design, and development to drive engagement and business growth.
-<br>
+<br> <br>
 I’m constantly exploring new tools, technologies, and insights that expand my thinking and sharpen my skillset.
-<br>
+<br> <br>
 Beyond coding, I create tech-focused content on my social media platforms and blog , breaking down design and development concepts to make them simple and accessible for others.
 
 &nbsp;
