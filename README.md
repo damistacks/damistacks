@@ -27,8 +27,8 @@ Click here 👉🏽 -- [damistacks.netlify.app](https://damistacks.netlify.app)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
 #### `🛠️ Tools`
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudio)
-![Chrome](https://img.shields.io/badge/-Chrome%20DevTools-black?style=flat-square&logo=googlechrome)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
+![Chrome](https://img.shields.io/badge/-Chrome-black?style=flat-square&logo=googlechrome)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
