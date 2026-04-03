@@ -10,10 +10,10 @@ Beyond coding, I create tech-focused content on my social media platforms and bl
 &nbsp;
 
 #### `🌐 Portfolio Website`
-Click here 👉 -- [logicaldami.netlify.app](https://logicaldami.netlify.app)
+Click here 👉🏽 -- [logicaldami.netlify.app](https://logicaldami.netlify.app)
 
 #### `📩 Contact Me`
-  Click here 👉 -- <a href="mailto: oluwasegun.d.idowu@gmail.com"> 
+  Click here 👉🏽 -- <a href="mailto: oluwasegun.d.idowu@gmail.com"> 
     oluwasegun.d.idowu@gmail.com
   </a>
 
@@ -35,7 +35,7 @@ Click here 👉 -- [logicaldami.netlify.app](https://logicaldami.netlify.app)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 #### `🎨 Designs`
-Click here 👉 -- [Behance](https://behance.net/damistacks)
+Click here 👉🏽 -- [Behance](https://behance.net/damistacks)
 
 #### `📝 Blog`
-Click here 👉 -- [Medium](https://medium.com/@damistacks)
+Click here 👉🏽 -- [Medium](https://medium.com/@damistacks)
