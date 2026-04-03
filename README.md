@@ -38,4 +38,4 @@ Click this 👉 -- [logicaldami.netlify.app](https://logicaldami.netlify.app)
 Click this 👉 -- [Behance](https://behance.net/logicaldami)
 
 #### `📝 Blog`
-Click this 👉 -- [Medium](https://medium.com/@logicaldami)
+Click this 👉 -- [Medium](https://medium.com/@damistacks)
