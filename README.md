@@ -1,5 +1,5 @@
 ### `Software Engineer`
-Hello, I’m Oluwasegun—most people call me Dami.
+👋🏽 Hello, I’m Oluwasegun—most people call me Dami.
 <br> <br>
 I’m a value-driven Software Engineer based in Lagos, passionate about continuous learning and building meaningful digital solutions. I specialize in transforming ideas into functional, user-focused web applications—combining strategy, design, and development to drive engagement and business growth.
 <br> <br>
@@ -35,7 +35,7 @@ Click this 👉 -- [logicaldami.netlify.app](https://logicaldami.netlify.app)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 #### `🎨 Designs`
-Click this 👉 -- [Behance](https://behance.net/logicaldami)
+Click this 👉 -- [Behance](https://behance.net/damistacks)
 
 #### `📝 Blog`
 Click this 👉 -- [Medium](https://medium.com/@damistacks)
