@@ -1,6 +1,11 @@
-### `Mobile App Developer`
-👋 Hello, World! <br>
-I'm Dami, a value-driven Mobile App Developer with a passion for continuous learning. I specialize in turning ideas into reality through strategic thinking — covering sketches, design, and development — to create mobile applications (Android and iOS) that engage users and support business growth.
+### `Software Engineer`
+👋 Hello, I’m Oluwasegun—most people call me Dami.
+<br>
+I’m a value-driven Software Engineer based in Lagos, passionate about continuous learning and building meaningful digital solutions. I specialize in transforming ideas into functional, user-focused web applications—combining strategy, design, and development to drive engagement and business growth.
+<br>
+I’m constantly exploring new tools, technologies, and insights that expand my thinking and sharpen my skillset.
+<br>
+Beyond coding, I create tech-focused content on my social media platforms and blog , breaking down design and development concepts to make them simple and accessible for others.
 
 &nbsp;
 
@@ -8,8 +13,8 @@ I'm Dami, a value-driven Mobile App Developer with a passion for continuous lear
 Click this 👉 -- [logicaldami.netlify.app](https://logicaldami.netlify.app)
 
 #### `📩 Contact Me`
-  Click this 👉 -- <a href="mailto: logicaldami@gmail.com"> 
-    logicaldami@gmail.com
+  Click this 👉 -- <a href="mailto: oluwasegun.d.idowu@gmail.com"> 
+    oluwasegun.d.idowu@gmail.com
   </a>
 
 #### `💬 Languages`
@@ -19,7 +24,7 @@ Click this 👉 -- [logicaldami.netlify.app](https://logicaldami.netlify.app)
 
 #### `🏗️ Libraries & Frameworks`
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=react)
 
 #### `🛠️ Tools`
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudio)
